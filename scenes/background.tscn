@@ -9,7 +9,7 @@
 [node name="Background" type="ParallaxBackground"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-scale = Vector2(3, 3)
+scale = Vector2(6, 3)
 texture = ExtResource("1_2pcy7")
 centered = false
 
